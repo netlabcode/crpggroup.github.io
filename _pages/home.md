@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "CRPG group - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "CRPG group at TU Delft."
 sitemap: false
 permalink: /
 ---
