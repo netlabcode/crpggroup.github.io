@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the CRPG.
 baseurl: ""
-url: "crpg.tudelft.eu"
+url: ""
 
 include:
   - .htaccess
