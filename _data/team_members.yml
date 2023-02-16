@@ -1,14 +1,18 @@
 - name: Alex Stefanov
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
+  photo: Alex_Stefanov.jpg 
+  info: Assistant professor, started May, 2019
+  number_educ: 1
+  education1: PhD in Electrical Engineering, University College Dublin, Ireland
+  
+- name: Vetrivel Subramaniam Rajkumar 
+  photo: Alfan_Presekal.jpg
+  info: PhD, started Apr, 2020
+  research area: cyber-physical systems, power system cyber security
+  project title: Cyber Resilience of Power Grid Operational Technologies
+  number_educ: 2
+  education1: Masters in Electrical Engineering, TU Delft, The Netherlands
+  education2: Bachelors in Electrical Engineering, Anna University, India
+  
 - name: Alfan Presekal
   photo: Alfan_Presekal.jpg
   info: PhD, started Jan, 2020
