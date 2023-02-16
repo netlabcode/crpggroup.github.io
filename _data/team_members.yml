@@ -4,15 +4,6 @@
   number_educ: 1
   education1: PhD in Electrical Engineering, University College Dublin, Ireland
   
-- name: Vetrivel Subramaniam Rajkumar 
-  photo: Alfan_Presekal.jpg
-  info: PhD, started Apr, 2020
-  research area: cyber-physical systems, power system cyber security
-  project title: Cyber Resilience of Power Grid Operational Technologies
-  number_educ: 2
-  education1: Masters in Electrical Engineering, TU Delft, The Netherlands
-  education2: Bachelors in Electrical Engineering, Anna University, India
-  
 - name: Alfan Presekal
   photo: Alfan_Presekal.jpg
   info: PhD, started Jan, 2020
@@ -21,6 +12,15 @@
   number_educ: 2
   education1: Masters in Secure Software System, Imperial College, UK
   education2: Bachelor in Computer Engineering, Universitas Indonesia, Indonesia
+  
+- name: Vetrivel Subramaniam Rajkumar 
+  photo: Vetrivel_Rajkumar.jpg
+  info: PhD, started Apr, 2020
+  research area: cyber-physical systems, power system cyber security
+  project title: Cyber Resilience of Power Grid Operational Technologies
+  number_educ: 2
+  education1: Masters in Electrical Engineering, TU Delft, The Netherlands
+  education2: Bachelors in Electrical Engineering, Anna University, India
   
 - name: Yigu Liu
   photo: Yigu_Liu.jpg
