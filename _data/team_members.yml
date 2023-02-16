@@ -41,6 +41,15 @@
   education1: Ph.D. degree in information and communication engineering, Huazhong University of Science and Technology, China
   education2: Masters in information and communication technologies, National Institute of Posts and Telecommunications, Morocco
   
+- name: Ioannis Semertzis
+  photo:
+  info: PhD, started Nov, 2021
+  research area:
+  project title: RESCUE
+  number_educ: 2
+  education1: Masters in Electrical Power Engineering, TU Delft, The Netherlands
+  education2: Diploma in Electrical and Computer Engineering, Democritus University of Thrace, Greece
+  
 - name: Sjors Hijgenaar
   photo: Sjors_Hijgenaar.jpg
   info: PhD, started Dec, 2021
@@ -49,6 +58,15 @@
   number_educ: 2
   education1: Masters in Transport, Infrastructure and Logistics, TU Delft, The Netherlands
   education2: Bachelors in System Engineering Policy Analysis and Management, TU Delft, The Netherlands
+  
+ - name: Ali Abedi
+  photo:
+  info: PhD, started Feb, 2022
+  research area:
+  project title: Innocypes
+  number_educ: 2
+  education1: Masters in Control Engineering, Iran University of Science and Technology, Iran
+  education2: Bachelors in Electrical Engineering, K.N.Toosi University of Technology , Iran
  
 - name: Ali Mollaei
   photo: Ali_Mollaei.jpg
