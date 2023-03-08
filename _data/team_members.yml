@@ -4,6 +4,24 @@
   number_educ: 1
   education1: PhD in Electrical Engineering, University College Dublin, Ireland
   
+- name: Raifa Akkaoui
+  photo: Raifa_Akkaoui.jpg
+  info: Postdoc, started Jul, 2021
+  research area: blockchain, edge computing, Internet of Things, cyber security, smart grids, and evolutionary game theory
+  project title: Blockchain for a cyber-secure DERs control
+  number_educ: 2
+  education1: Ph.D. degree in information and communication engineering, Huazhong University of Science and Technology, China
+  education2: Masters in information and communication technologies, National Institute of Posts and Telecommunications, Morocco
+  
+- name: Mohsen Jorjani Damghani
+  photo: Mohsen_Jorjani.JPG
+  info: Postdoc, started Oct, 2022
+  research area: power systems cyber security, operation, and control
+  project title: Cyber secure and resilient control systems for interconnected HVAC-HVDC systems (HVDC-WISE)
+  number_educ: 2
+  education1: PhD in electrical engineering from Tarbiat Modares University (TMU), Iran
+  education2: Bachelors and Masters in electrical engineering from Amirkabir University of Technology (AUT), Iran
+  
 - name: Alfan Presekal
   photo: Alfan_Presekal.jpg
   info: PhD, started Jan, 2020
@@ -31,15 +49,6 @@
   education1: Masters in Electrical Engineering, Southwest Jiaotong University, China
   education2: Bachelors in Electrical Engineering, Southwest Jiaotong University, China
   
-
-- name: Raifa Akkaoui
-  photo: Raifa_Akkaoui.jpg
-  info: Postdoc, started Jul, 2021
-  research area: blockchain, edge computing, Internet of Things, cyber security, smart grids, and evolutionary game theory
-  project title: Blockchain for a cyber-secure DERs control
-  number_educ: 2
-  education1: Ph.D. degree in information and communication engineering, Huazhong University of Science and Technology, China
-  education2: Masters in information and communication technologies, National Institute of Posts and Telecommunications, Morocco
   
 - name: Ioannis Semertzis
   photo: Ioannis_S.jpg
@@ -84,14 +93,7 @@
   number_educ: 1
   education1: Bachelors and Masters in electrical and power systems engineering, University of Isfahan, Iran
   
-- name: Mohsen Jorjani Damghani
-  photo: Mohsen_Jorjani.JPG
-  info: Postdoc, started Oct, 2022
-  research area: power systems cyber security, operation, and control
-  project title: Cyber secure and resilient control systems for interconnected HVAC-HVDC systems (HVDC-WISE)
-  number_educ: 2
-  education1: PhD in electrical engineering from Tarbiat Modares University (TMU), Iran
-  education2: Bachelors and Masters in electrical engineering from Amirkabir University of Technology (AUT), Iran
+
   
 # - name: Jinwon Lee
 # #   photo: Jinwon.jpg
